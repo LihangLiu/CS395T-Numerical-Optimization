@@ -3,7 +3,7 @@
   Go to each folder for problem descriptions and solvers.
   - [Shape deformation](https://github.com/LihangLiu/Numerical-Optimization/tree/master/shape-deformation)
    solved by Gradient Descent and Alternating Minimization
-  - [Low rank matrix recovery](https://github.com/LihangLiu/Numerical-Optimization/tree/master/shape-deformation)
+  - [Low rank matrix recovery](https://github.com/LihangLiu/Numerical-Optimization/tree/master/low-rank-matrix)
    solved by Gradient Descent, Alternating Minimization and Trust Region
-  - [L1 penalty loss](https://github.com/LihangLiu/Numerical-Optimization/tree/master/shape-deformation)
+  - [L1 penalty loss](https://github.com/LihangLiu/Numerical-Optimization/tree/master/proximal-gradient-descent)
    solved by Proximal Gradient Descent
