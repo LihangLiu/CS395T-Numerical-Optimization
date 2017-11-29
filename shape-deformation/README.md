@@ -1,10 +1,13 @@
 
-![alt text](https://github.com/LihangLiu/Numerical-Optimization/blob/master/shape-deformation/screenshot-shape-deformation.png)
+# Shape Deformation
+## Problem Description
+
+![alt text](https://raw.githubusercontent.com/LihangLiu/Numerical-Optimization/master/shape-deformation/screenshot-shape-deformation.png)
 
 
-Two kinds of solvers implemented.
-# Alternating Minimization
+## Solvers
+### Alternating Minimization
     python alternating_minimizer.py
     
-# Gradient Descent
+### Gradient Descent
     python gradient_descent.py
