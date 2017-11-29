@@ -1,5 +1,5 @@
 
-# Shape Deformation
+# Low Rank Matrix Recovery
 ## Problem Description
 
 ![alt text](https://raw.githubusercontent.com/LihangLiu/Numerical-Optimization/master/low-rank-matrix/screenshot-low-rank_matrix.png)
