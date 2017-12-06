@@ -7,3 +7,5 @@
    solved by Gradient Descent, Alternating Minimization and Trust Region
   - [L1 penalty loss](https://github.com/LihangLiu/Numerical-Optimization/tree/master/proximal-gradient-descent)
    solved by Proximal Gradient Descent
+   - [Linear programming](https://github.com/LihangLiu/Numerical-Optimization/tree/master/linear-programming)
+   solved by Simplex method and Interior point method.
